@@ -42,13 +42,13 @@
   <div class="row">
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>Clone</p>
+		<p>Cloneing</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>Build</h2>
+		<h2>Building</h2>
 		<p></p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
@@ -56,7 +56,7 @@
 	</div>
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>Deploy</p>
+		<p>Deployment</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
